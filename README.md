@@ -1,3 +1,3 @@
 # academy-repo
 
-Hello world!
+Hello world! :)
